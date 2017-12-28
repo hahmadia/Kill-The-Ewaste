@@ -7,3 +7,4 @@
 4. Enjoy!
 
 Disclamer: Can only be played on windows as it is a EXE file.
+This is a game I created in high school as final project.
